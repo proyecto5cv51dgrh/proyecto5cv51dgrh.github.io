@@ -8,18 +8,12 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyARoGfdVpqR9D_lAufrDRx8jy9sYqzt5go",
-
+  apiKey: "AIzaSyARoGfdVpqR9D_lAufrDRx8jy9sYqzt5go",
   authDomain: "proyecto5cv51dgrh-3fb99.firebaseapp.com",
-
   projectId: "proyecto5cv51dgrh-3fb99",
-
   storageBucket: "proyecto5cv51dgrh-3fb99.appspot.com",
-
   messagingSenderId: "23308626252",
-
   appId: "1:23308626252:web:f756c15854e49fdcce07e9",
-
-  measurementId: "G-S2EWHYS568"
+  measurementId: "G-S2EWHYS568
 
 });
